@@ -1,3 +1,3 @@
-module github.com/surh-go/utils
+module github.com/asr-go/utils
 
 go 1.12
